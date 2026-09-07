@@ -47,3 +47,5 @@ common:
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
+x-parent: peloton
+x-relationship: product
